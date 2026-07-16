@@ -21,3 +21,10 @@ print()
 
 e2.display()
 e2.bonus()
+# Output
+#Employee Name: Sakshi
+#Salary: 39000
+#Bonus: 3900.0
+#Employee Name: Anjali
+#Salary: 55000
+#Bonus: 5500.0
