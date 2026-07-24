@@ -48,24 +48,24 @@ Report.change_college("Pune Institute of Computer Technology")
 
 student2 = Report("Karan", 222, 36)
 student2.display_report()
-'''Output:-
-PS C:\Users\Shriram\Desktop\SY-Advance-Python> & C:\Users\Shriram\AppData\Local\Microsoft\WindowsApps\python3.13.exe c:/Users/Shriram/Desktop/SY-Advance-Python/Assignment_2.py
-========================================
-         STUDENT REPORT
-========================================
-College : MIT ADT University
-Name : Shriram
-Roll No : 51
-Marks : 91
-Result : PASS
-========================================
-
-========================================
-         STUDENT REPORT
-========================================
-College : Pune Institute of Computer Technology
-Name : Karan
-Roll No : 222
-Marks : 36
-Result : FAIL
-========================
+#'''Output:-
+#PS C:\Users\Shriram\Desktop\SY-Advance-Python> & C:\Users\Shriram\AppData\Local\Microsoft\WindowsApps\python3.13.exe c:/Users/Shriram/Desktop/SY-Advance-Python/Assignment_2.py
+#========================================
+        # STUDENT REPORT
+#========================================
+#college : MIT ADT University
+#Name : Shriram
+#Roll No : 51
+#Marks : 91
+#Result : PASS
+#========================================
+#
+#========================================
+ #        STUDENT REPORT
+#========================================
+#College : Pune Institute of Computer Technology
+#Name : Karan
+#Roll No : 222
+#Marks : 36
+#Result : FAIL
+#========================
